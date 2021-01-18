@@ -1,4 +1,6 @@
-## Hola, I'm Ishu Sagar 👋
+[![Header](https://github.com/ishusagar/ishusagar/blob/master/look.jpg "Header")](https://linkedin.com/in/ishusagar)
+
+## Hello, folks! Call me Ishu. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishusagar&label=Views&color=blue&style=plastic" alt="ishusagar" /> </p>
 
@@ -26,8 +28,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on Machine learning and Data Structures.
-- 🌱 I’m currently learning Django.
+- 🔭 Code and Cosmics.
+- 🌱 I’m currently working on Machine learning and Data Structures.
 - 👯 I’m looking to collaborate on some ML projects.
 - 🤔 I’m looking for help with motivation.
 - 💬 Ask me about Tech.
