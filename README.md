@@ -31,7 +31,6 @@
 - 🔭 Code and Cosmics.
 - 🌱 I’m currently working on Machine learning and Data Structures.
 - 👯 I’m looking to collaborate on some ML projects.
-- 🤔 I’m looking for help with motivation.
 - 💬 Ask me about Tech.
 - 📫 How to reach me: [📧](mailto:ishusagar101@gmail.com)
 - ⚡ Fun fact: I can work for 2 days continuously without sleep.
