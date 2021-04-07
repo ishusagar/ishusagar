@@ -57,8 +57,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishusagar&theme=dark"/>
 </a>
 
+<a href="https://github.com/ishusagar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishusagar&theme=dark"/>
+</a>
 
 <div align="center">
 
 
 </div>
+
