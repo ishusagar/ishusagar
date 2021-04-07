@@ -61,6 +61,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishusagar&theme=dark"/>
 </a>
 
+<a href="https://github.com/ishusagar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishusagar&repo=JustSending&theme=dark&show_owner=True"/>
+</a>
+
+<a href="https://github.com/ishusagar">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ishusagar&repo=catacomb&theme=dark&show_owner=True"/>
+</a>
+
 <div align="center">
 
 
