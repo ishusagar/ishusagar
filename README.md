@@ -63,11 +63,11 @@
 </a>
 
 <a href="https://github.com/ishusagar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishusagar&theme=dark&layout=compact"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishusagar&theme=dark"/>
 </a>
 
 <a href="https://github.com/ishusagar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishusagar&theme=dark"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ishusagar&theme=dark&v=2"/>
 </a>
 
 <a href="https://github.com/ishusagar">
