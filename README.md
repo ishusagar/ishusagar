@@ -4,6 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishusagar&label=Views&color=blue&style=plastic" alt="ishusagar" /> </p>
 
+## Don't be a stranger! 🤝 <a href="ishusagar.tech"><img align="left" width="200" height="200" src="https://github.com/ishusagar/ishusagar/blob/d90842f22c8ed7d4c95c0804ed37525aea4c6b92/profile.png"></a>
+🔭 Code and Cosmics.</br>
+🌱 I’m currently working on Machine learning and Data Structures.</br>
+👯 I’m looking to collaborate on some ML projects.</br>
+💬 Ask me about Tech.</br>
+📫 How to reach me: [📧](mailto:ishusagar101@gmail.com)</br>
+⚡ Fun fact: I can work for 2 days continuously without sleep.</br>
+
+## Find me around the web 🌎:
 <a href="https://twitter.com/n0t_a_yes_sir">
   <img align="left" alt="Ishu's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -22,23 +31,7 @@
 <a href="https://www.facebook.com/ishusagar/">
   <img align="left" alt="Ishu's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
-
-<br/>
-<br/>
-
-
-- 🔭 Code and Cosmics.
-- 🌱 I’m currently working on Machine learning and Data Structures.
-- 👯 I’m looking to collaborate on some ML projects.
-- 💬 Ask me about Tech.
-- 📫 How to reach me: [📧](mailto:ishusagar101@gmail.com)
-- ⚡ Fun fact: I can work for 2 days continuously without sleep.
-
-[![Twitter: n0t_a_yes_sir](https://img.shields.io/twitter/follow/n0t_a_yes_sir?style=social)](https://twitter.com/n0t_a_yes_sir)
-[![Linkedin: ishusagar](https://img.shields.io/badge/-ishusagar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishusagar/)](https://www.linkedin.com/in/ishusagar/)
-[![GitHub ishusagar](https://img.shields.io/github/followers/ishusagar?label=follow&style=social)](https://github.com/ishusagar)
-[![website](https://img.shields.io/badge/Portfolio-IshuSagar-2648ff?style=flat-square&logo=google-chrome)](https://ishusagar.myportfolio.com/)
+</br>
 
 
 ## Tools & Technologies ⚙
