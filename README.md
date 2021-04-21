@@ -2,9 +2,9 @@
 
 # Hello, folks! Call me Ishu. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishusagar&label=Views&color=blue&style=plastic" alt="ishusagar" /> </p>
 
 ## Don't be a stranger! 🤝 <a href="ishusagar.tech"><img align="left" width="200" height="200" src="https://github.com/ishusagar/ishusagar/blob/d90842f22c8ed7d4c95c0804ed37525aea4c6b92/profile.png"></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ishusagar&label=Views&color=blue&style=plastic" alt="ishusagar" /> </p></br>
 🔭 Code and Cosmics.</br>
 🌱 I’m currently working on Machine learning and Data Structures.</br>
 👯 I’m looking to collaborate on some ML projects.</br>
