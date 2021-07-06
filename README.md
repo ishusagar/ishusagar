@@ -10,7 +10,7 @@
 👯 I’m looking to collaborate on some ML projects.</br>
 💬 Ask me about Tech.</br>
 📫 How to reach me: [📧](mailto:ishusagar101@gmail.com)</br>
-⚡ Fun fact: I can work for 2 days continuously without sleep.</br>
+⚡ Fun fact: I flip both Omelette and BITS.</br>
 
 ## Find me around the web 🌎:
 <a href="https://twitter.com/n0t_a_yes_sir">
