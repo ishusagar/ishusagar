@@ -3,7 +3,7 @@
 # Hello, folks! Call me Ishu. <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-## Don't be a stranger! 🤝 <a href="ishusagar.tech"><img align="left" width="200" height="200" src="https://github.com/ishusagar/ishusagar/blob/d90842f22c8ed7d4c95c0804ed37525aea4c6b92/profile.png"></a>
+## Don't be a stranger! 🤝 <a href="ishusagar.tech"><img align="left" width="200" height="200" src="https://github.com/ishusagar/ishusagar/blob/ebbce2f5651b340a61f79cacf62215000c4f47b2/ava.png"></a>
 <img src="https://komarev.com/ghpvc/?username=ishusagar&label=Views&color=blue&style=plastic" alt="ishusagar" /></br>
 🔭 Code and Cosmics.</br>
 🌱 I’m currently working on Machine learning and Data Structures.</br>
